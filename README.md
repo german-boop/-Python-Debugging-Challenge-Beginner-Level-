@@ -87,18 +87,8 @@ Note: The above code contains syntax and logic errors.
 from typing import List
 
 def calculate_average(numbers: List[float]) -> float:
-    """
-    Calculate the average of a list of numbers.
-
-    Args:
-        numbers (List[float]): A list of numeric values.
-
-    Returns:
-        float: The average value. Returns 0.0 if the list is empty.
-    """
     if not numbers:
         return 0.0
-
     total = sum(numbers)
     return total / len(numbers)
 
