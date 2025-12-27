@@ -6,6 +6,16 @@ This repository contains a **beginner-level Python debugging challenge** designe
 
 The goal of this challenge is to help programmers improve their ability to **identify bugs, fix logic errors, and write clean, readable Python code**.
 
+
+## 📁 Repository Structure (Simple & Professional)
+
+```plaintext
+python-debugging-challenge/
+│
+├── average.py
+├── README.md
+└── LICENSE
+
 ---
 
 ## 🎯 Learning Objectives
@@ -41,3 +51,39 @@ def average(numbers):
     for n in numbers
         total += n
     return total
+
+## 📌 Requirements
+
+Python 3.x
+
+No external libraries
+
+Beginner-friendly implementation
+
+## 📊 Evaluation Criteria
+
+| Criterion    | Description                          |
+|--------------|--------------------------------------|
+| Correctness  | Returns the correct average          |
+| Robustness   | Handles empty lists safely           |
+| Readability  | Clear structure and naming           |
+| Standards    | Follows PEP 8 and PEP 484            |
+
+## 📚 References
+
+- **PEP 8 – Style Guide for Python Code**  
+  https://peps.python.org/pep-0008/
+
+- **PEP 484 – Type Hints**  
+  https://peps.python.org/pep-0484/
+
+- **ISO/IEC 25010 – Software Quality Model**  
+  https://www.iso.org/standard/78176.html
+
+- **Python Official Documentation**  
+  https://docs.python.org/3/
+
+## ⚖️ License
+
+This project is released for educational purposes and is licensed under an open-source-friendly agreement.
+
