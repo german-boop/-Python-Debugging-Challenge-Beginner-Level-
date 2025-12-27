@@ -1,5 +1,8 @@
 # Python Debugging Challenge — Beginner Level
 
+## 📁 Repository Structure (with Tests)
+
+```plaintext
 python-debugging-challenge/
 │
 ├── average.py
