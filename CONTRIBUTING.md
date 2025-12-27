@@ -21,7 +21,7 @@
   Users can quickly understand how to contribute when they view the repository. Clear documentation, setup instructions, and contribution guidelines improve approachability and collaboration.
 
 
-### 3️⃣ Recommended Display for README
+###  Recommended Display for README
 
 After the tree structure, you can add a short description for each file:
 
