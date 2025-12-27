@@ -7,14 +7,17 @@ This repository contains a **beginner-level Python debugging challenge** designe
 
 The goal of this challenge is to help programmers improve their ability to **identify bugs, fix logic errors, and write clean, readable Python code**.
 
-## 📁Repository Structure (with Tests)
+## 📂 Project Structure
 
-```plaintext
+```text
 python-debugging-challenge/
 │
 ├── average.py
 ├── tests/
 │   └── test_average.py
+├── assets/
+│   ├── average_example.png
+│   └── average_demo.gif
 ├── README.md
 └── LICENSE
 ```
