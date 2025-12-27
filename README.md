@@ -1,16 +1,5 @@
 # Python Debugging Challenge — Beginner Level
 
-## 📁 Repository Structure (with Tests)
-
-```plaintext
-python-debugging-challenge/
-│
-├── average.py
-├── tests/
-│   └── test_average.py
-├── README.md
-└── LICENSE
-
 ---
 
 ## 🎯 Learning Objectives
