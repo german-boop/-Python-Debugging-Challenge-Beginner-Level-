@@ -1,3 +1,11 @@
+---
+
+## 🎨 Visualization
+
+![Python Debugging Illustration](images/python_debugging.gif)
+
+---
+
 # 🐍 Python Debugging Challenge (Beginner Level)
 
 ## 📖 Overview
