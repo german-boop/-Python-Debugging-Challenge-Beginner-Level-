@@ -24,6 +24,15 @@ python-debugging-challenge/
 ```
 ---
 
+### 📄 File Descriptions
+
+- `CONTRIBUTING.md`: Guidelines for contributing to this project.
+- `average.py`: Contains the main Python function `calculate_average`.
+- `tests/`: Unit tests for the project using `unittest`.
+- `assets/`: Images and GIFs demonstrating the functionality.
+- `README.md`: Full project documentation, including usage and examples.
+- `LICENSE`: Open-source license (MIT recommended).
+
 ## 🎯 Learning Objectives
 
 By completing this challenge, you will learn to:
