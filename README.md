@@ -10,17 +10,27 @@ The goal of this challenge is to help programmers improve their ability to **ide
 ## 📂 Project Structure 
 
 ```text
-python-debugging-challenge/
+Project-Name/
 │
-├── average.py                  # Main Python function
-├── tests/                      # Folder for unit tests
-│   └── test_average.py         # Example unit test
-├── assets/                     # Folder for images and GIFs
-│   ├── average_example.png     # Example image
-│   └── average_demo.gif        # Animated GIF demonstration
-├── README.md                   # Project documentation
-├── LICENSE                     # Open-source license
-└── CONTRIBUTING.md             # Guidelines for contributors
+├── .gitignore                  # Specifies files and directories for Git to ignore
+├── LICENSE                     # Project license
+├── CONTRIBUTING.md             # Guidelines for contributing to the project
+├── README.md                   # Main project documentation
+├── README_1.md                 # Secondary README or experimental version
+├── Project description.pdf     # Full project documentation, objectives, and scope
+├── Feedback.pdf                # Feedback report or code review
+│
+├── src/                        # Main source code
+│   └── average.py              # The calculate_average function
+│
+├── docs/                       # Additional project documentation
+│   └── (diagrams, charts, notes, etc.)
+│
+├── tests/                      # Automated test scripts
+│   └── (e.g., test_average.py)
+│
+└── examples/                   # Practical usage examples
+    └── (e.g., usage_examples.py)
 
 ```
 ---
