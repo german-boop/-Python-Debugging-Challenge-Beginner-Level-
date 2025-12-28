@@ -12,15 +12,16 @@ The goal of this challenge is to help programmers improve their ability to **ide
 ```text
 python-debugging-challenge/
 │
-├── average.py
-├── tests/
-│   └── test_average.py
-├── assets/
-│   ├── average_example.png
-│   └── average_demo.gif
-├── README.md
-├── LICENSE
-└── CONTRIBUTING.md  
+├── average.py                  # Main Python function
+├── tests/                      # Folder for unit tests
+│   └── test_average.py         # Example unit test
+├── assets/                     # Folder for images and GIFs
+│   ├── average_example.png     # Example image
+│   └── average_demo.gif        # Animated GIF demonstration
+├── README.md                   # Project documentation
+├── LICENSE                     # Open-source license
+└── CONTRIBUTING.md             # Guidelines for contributors
+
 ```
 ---
 
