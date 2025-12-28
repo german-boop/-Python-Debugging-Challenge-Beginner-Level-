@@ -41,17 +41,3 @@ def calculate_average(numbers: Iterable[float]) -> float:
         return 0
     return sum(numbers_list) / len(numbers_list)
 ```
-
-  ## 🧪 Example Usage
-
-```python
-from average import calculate_average
-
-numbers = [10, 20, 30, 40]
-result = calculate_average(numbers)
-print(f"The average is: {result}")
-```
-
-# Output
-
-# The average is: 25.0
